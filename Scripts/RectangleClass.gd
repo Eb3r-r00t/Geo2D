@@ -15,5 +15,5 @@ func _process(delta):
 	update()
 
 func _draw():
-		draw_rect (Rect2(rect_coordinates,rect_size),color,true, 1.0,false)
+		draw_rect (Rect2(get_viewport().get_mouse_position(),rect_size),color,true, 1.0,false)
 	
