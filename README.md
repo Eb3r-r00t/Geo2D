@@ -7,4 +7,4 @@ Instalação
 
 - git clone https://github.com/luismariotti1/Geo2D.git
 
-- Entrar no godot, na aba projects escolher scan e achar o projeto
+- Entrar no godot, na aba projects escolher scan e escolher a pasta Geo2D
