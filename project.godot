@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="Geo2D"
 config/description="Software de transformações geometricas em 2d"
-run/main_scene="res://ProjectScenes/Scene.tscn"
+run/main_scene="res://MainScene/Scene.tscn"
 config/icon="res://icon.png"
 
 [display]
